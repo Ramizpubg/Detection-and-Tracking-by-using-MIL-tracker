@@ -170,6 +170,8 @@ while True:
 
         # Display detection results
         cv2.imshow("Detection", detection_frame)
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/bc4a0a3f-d785-470d-a48c-e1330e45f7dd">
+
 
     if tracker_initialized:
         # Update the tracker with the current frame
