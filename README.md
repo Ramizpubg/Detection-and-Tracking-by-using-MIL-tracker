@@ -196,6 +196,7 @@ while True:
 cap.release()
 cv2.destroyAllWindows()
 ```
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/ba1b67fe-9f29-4bba-8b16-e1d2be5a4131">
 
 ## Running the Detection and Tracking System
 
